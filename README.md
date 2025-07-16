@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igarcia53&show_icons=true&locale=en&layout=compact" alt="igarcia53" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igarcia53&show_icons=true&locale=en" alt="igarcia53" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igarcia53&" alt="igarcia53" /></p>
