@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Garcia Vega</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Experto en PHP, JS, LMS y proyectos. Especializado en bases de datos. Apasionado por la innovación tecnológica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igarcia53&label=Profile%20views&color=0e75b6&style=flat" alt="igarcia53" /> </p>
